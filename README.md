@@ -3,8 +3,7 @@ This repository contains front-end projects built following the <a href="https:/
 
 # Projects
   Click the image to go to the file directory, click the project name to go to roadman.sh project link.
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
-
+<div>
   <!-- 1. Single Page CV -->
   <div style="max-width: 500px; text-align: center;">
     <h4><a href="https://roadmap.sh/projects/single-page-cv">1. Single Page CV</a></h4>
@@ -31,5 +30,6 @@ This repository contains front-end projects built following the <a href="https:/
     <p><i>Preview of the Basic HTML Website Project</i></p>
   </div>
 
+    <!-- 2. Basic HTML Website -->
 </div>
 
