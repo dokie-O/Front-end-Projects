@@ -30,6 +30,6 @@ This repository contains front-end projects built following the <a href="https:/
     <p><i>Preview of the Basic HTML Website Project</i></p>
   </div>
 
-    <!-- 2. Basic HTML Website -->
+  <!-- 2. Personal Portfolio -->
 </div>
 
